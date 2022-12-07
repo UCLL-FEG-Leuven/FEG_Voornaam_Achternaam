@@ -1,0 +1,14 @@
+{
+  "name": "feg_voornaam_achternaam",
+  "version": "0.0.1",
+  "description": "Front end gevorderd oefeningen framework",
+  "scripts": {
+    "start": "cd Server & npm run start"
+  },
+  "keywords": [
+    "UCLL",
+    "FEG"
+  ],
+  "author": "Voornaam Achternaam",
+  "license": "UNLICENSED"
+}
